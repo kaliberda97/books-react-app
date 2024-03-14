@@ -8,4 +8,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # books-react-app
 
-![gif](./public/books-app-react.gif)
+![gif](./public/gif1.gif)
